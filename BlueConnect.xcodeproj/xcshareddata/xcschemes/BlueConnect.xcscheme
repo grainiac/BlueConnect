@@ -15,7 +15,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "FAC185AA2EB4AEB900209EEA"
+               BlueprintIdentifier = "FA1770D12EBA2C59007905B2"
                BuildableName = "BlueConnect.app"
                BlueprintName = "BlueConnect"
                ReferencedContainer = "container:BlueConnect.xcodeproj">
@@ -44,7 +44,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "FAC185AA2EB4AEB900209EEA"
+            BlueprintIdentifier = "FA1770D12EBA2C59007905B2"
             BuildableName = "BlueConnect.app"
             BlueprintName = "BlueConnect"
             ReferencedContainer = "container:BlueConnect.xcodeproj">
@@ -61,7 +61,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "FAC185AA2EB4AEB900209EEA"
+            BlueprintIdentifier = "FA1770D12EBA2C59007905B2"
             BuildableName = "BlueConnect.app"
             BlueprintName = "BlueConnect"
             ReferencedContainer = "container:BlueConnect.xcodeproj">
